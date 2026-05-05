@@ -9,7 +9,7 @@ Building scalable systems & real-world digital products from Indonesia 🇮🇩
 <p align="center">
   <a href="https://pages.aqiqahpro.my.id" target="_blank"><b>🚀 AqiqahPro</b></a> •
   <a href="https://syahrizaldev.netlify.app" target="_blank">🌐 Portfolio</a> •
-  <a href="https://santrikoding.com/profile/@izal" target="_blank">✍️ Articles</a>
+  <a href="https://santrikoding.com/profile/@izal?tab=posts" target="_blank">✍️ Articles</a>
 </p>
 
 ---
