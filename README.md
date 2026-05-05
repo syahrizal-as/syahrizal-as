@@ -43,7 +43,7 @@ Building scalable systems & real-world digital products from Indonesia 🇮🇩
 * Customer & production tracking
 * Ready for scaling & automation
 
-🔗 https://aqiqahpro.my.id
+🔗 https://pages.aqiqahpro.my.id
 
 ---
 
@@ -66,7 +66,7 @@ Building scalable systems & real-world digital products from Indonesia 🇮🇩
 ## 🤝 Let's Connect
 
 * 🌐 https://syahrizaldev.netlify.app
-* ✍️ https://santrikoding.com/profile/@izal
+* ✍️ https://santrikoding.com/profile/@izal?tab=posts
 * 📧 [alisadikinsyahrizal@gmail.com](mailto:alisadikinsyahrizal@gmail.com)
 
 ---
