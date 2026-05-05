@@ -48,11 +48,8 @@ Building scalable systems & real-world digital products from Indonesia 🇮🇩
 ---
 
 ## 📊 GitHub Stats
-
-![Syahrizal Stats](https://github-readme-stats.vercel.app/api?username=syahrizal-alisadikin\&show_icons=true\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizal-as\&layout=compact)
-
+![Syahrizal Stats](https://github-readme-stats.vercel.app/api?username=syahrizal-as&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizal-as&layout=compact&theme=tokyonight)
 ---
 
 ## 📈 Current Focus
