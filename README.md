@@ -43,7 +43,7 @@ Building scalable systems & real-world digital products from Indonesia 🇮🇩
 * Customer & production tracking
 * Ready for scaling & automation
 
-🔗 https://pages.aqiqahpro.my.id
+🔗 https://aqiqahpro.my.id
 
 
 ## 📈 Current Focus
